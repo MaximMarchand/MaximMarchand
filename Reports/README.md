@@ -1,6 +1,6 @@
 # Reports
 
-In this folder, you will find the reports that I have written about some projects on which I worked during my Physics studies.
+In this folder, you will find the reports about the projects on which I worked during my Physics studies.
 
 | Year         | Title                                                                       | File                   |
 |--------------|-----------------------------------------------------------------------------|------------------------|
