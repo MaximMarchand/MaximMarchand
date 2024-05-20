@@ -8,4 +8,4 @@ In this folder, you will find the reports about the projects on which I worked d
 | 3rd Bachelor | *Sur une étude numérique et analytique du modèle d’Ising à deux dimensions* | `B3E2_Ising.pdf`       |
 | 3rd Bachelor | *Théorie des graphes et systèmes complexes*                                 | `B3E3_Graphs.pdf`      |
 | 1st Master   | *Searching for planet-planet eclipses*                                      | `M1E1_Eclipses.pdf`    |
-| 2nd Master   | *Evolution of Massive Stars with Internal Gravity Waves*                    | `M1E2_GravityWaves.pdf`|
+| 1st Master   | *Evolution of Massive Stars with Internal Gravity Waves*                    | `M1E2_GravityWaves.pdf`|
